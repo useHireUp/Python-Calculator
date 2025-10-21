@@ -1,5 +1,5 @@
 
-# Python Beginner Assessment — Console Calculator (Full README)
+# Python Beginner Assessment 
 
 Welcome to the **Python Beginner Coding Assessment**!  
 In this project, you’ll build a **simple calculator** that runs in the **console** — no graphics or frameworks needed.
